@@ -1,0 +1,7 @@
+D:\More\code\Liza_dz\bin\Debug\Liza_dz.exe.config
+D:\More\code\Liza_dz\bin\Debug\Liza_dz.exe
+D:\More\code\Liza_dz\bin\Debug\Liza_dz.pdb
+D:\More\code\Liza_dz\obj\Debug\Liza_dz.csproj.AssemblyReference.cache
+D:\More\code\Liza_dz\obj\Debug\Liza_dz.csproj.CoreCompileInputs.cache
+D:\More\code\Liza_dz\obj\Debug\Liza_dz.exe
+D:\More\code\Liza_dz\obj\Debug\Liza_dz.pdb
